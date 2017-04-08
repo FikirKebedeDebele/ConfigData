@@ -1,4 +1,9 @@
-lucky-word: Irish
-lucky-word: Rabbit's Foot
-lucky-word: Serendipity
+spring:
+  application:
+    name: lucky-world
+  profiles:
+    active: Irish,Rabbit's Foot, Serendipty
+
+
+
 
