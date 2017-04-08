@@ -1,6 +1,6 @@
 spring:
   application:
-    name: lucky-world
+    name: lucky-word
   profiles:
     active: Irish,Rabbit's Foot, Serendipty
 
